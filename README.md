@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm talha</h1>
-<h3 align="center">A passionate mobileapp developer from Turkey</h3>
+<h3 align="center">A passionate mobile app developer and cybersecurity researcher from Turkey</h3>
 
 ![73e991010ec134fbd0ab475172bd13f6](https://github.com/talhaaydinn/talhaaydinn/assets/114862068/e3dba579-782e-4cab-8de9-da418541458b)
 
